@@ -3,4 +3,8 @@ class hello {
         System.out.println("Hello World");
         System.out.println("First Change");
     }
+
+    public static int zeroGenerator() {
+        return 0;
+    }
 }
